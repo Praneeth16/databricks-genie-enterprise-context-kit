@@ -1,5 +1,7 @@
 # Databricks Genie Enterprise Context Kit
 
+*Build an enterprise knowledge factory across Databricks Genie One, Genie Code, and Genie Agents.*
+
 Copy-pasteable starter templates for setting up enterprise context across **Databricks Genie One**, **Genie Code**, and **Genie Agents**: instructions files, open Agent Skills (`SKILL.md`), private memory prompts, and Unity Catalog Genie Ontology Pages.
 
 > **Full Guide & Walkthrough:** Read the complete article on Towards AI — **[Giving Your AI Coworker Enterprise Context with Databricks Genie](https://pub.towardsai.net/giving-your-ai-coworker-enterprise-context-with-databricks-genie-a3bc8113790f)** — for the full architecture breakdown, comparison with RAG and standalone semantic layers, hands-on test findings, 8-step team rollout checklist, and FAQ.
